@@ -1,6 +1,8 @@
 # IngramTimeDialog
 日期选择器
 
+![这是一张图片](https://github.com/YangsBryant/IngramTimeDialog/blob/master/aecy6-b622c.gif)
+
 ## 引入module
 ```java
 allprojects {
