@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-## ScaleProgressView属性大全
+## IngramTimeDialog属性大全
 方法名 | 属性
 --------- | -------------
 setTipsStr(String tips) | 设置标题文字
