@@ -62,4 +62,10 @@ setCancelBg(int drawableId) | 设置取消按钮的背景
 setFixBg(int drawableId) | 设置确定按钮的背景
 build() | 参数设置完毕，一定要build一下
 
+## 按钮背景的资源文件
+```java
+[取消按钮](https://github.com/YangsBryant/IngramTimeDialog/blob/master/ingramselectdialoglibrary/src/main/res/drawable/dialog_bt01.xml)
+[确定按钮](https://github.com/YangsBryant/IngramTimeDialog/blob/master/ingramselectdialoglibrary/src/main/res/drawable/dialog_bt02.xml)
+```
+
 ## 联系QQ：961606042
